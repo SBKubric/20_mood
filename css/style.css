@@ -1,0 +1,25 @@
+@import url(http://allfont.net/allfont.css?fonts=pudelinka);
+
+@font-face {
+  font-family: quoteFont;
+  src: url(./ComicRelief.ttf);
+}
+
+body {
+  background-color: red;
+  background-image: url(./OatmealReno.png);
+  background-repeat:repeat-x;
+  background-position: top;
+}
+
+h1 {
+  font-family: 'Pudelinka', serif;
+  color: white;
+  text-transform: capitalize;
+}
+
+div {
+  font-family: quoteFont, serif;
+  color: white;
+
+}
